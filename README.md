@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Cze%C5%9B%C4%87,%20jestem%20B0gusi4!%20%F0%9F%90%89&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Cześć, jestem B0gusi4!" />
+  <img src="./assets/profile-banner.png" width="100%" alt="B0gusi4 — czarno-fioletowy banner w stylistyce mangi i treningu siłowego" />
 </div>
 
 <h3 align="center">🏋️ Trening, technologia i ciągły rozwój 💻</h3>
@@ -51,10 +51,4 @@
   <a href="https://github.com/B0gusi4">
     <img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profil B0gusi4 na GitHubie" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer" width="100%" alt="Dekoracyjna stopka" />
 </div>
