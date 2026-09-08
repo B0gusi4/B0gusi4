@@ -1,54 +1,22 @@
-<div align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="B0gusi4 — czarno-fioletowy banner w stylistyce mangi i treningu siłowego" />
-</div>
+# Cześć, jestem B0gusi4 👋
 
-<h3 align="center">🏋️ Trening, technologia i ciągły rozwój 💻</h3>
+Jestem trenerem personalnym, który poza treningiem siłowym rozwija również zainteresowanie programowaniem i nowymi technologiami.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Trener+personalny;Science-based+lifting;Programowanie+i+nowe+technologie;Ka%C5%BCdego+dnia+o+1%25+lepiej!" alt="Trener personalny zainteresowany science-based liftingiem i programowaniem" />
-</p>
+- 🏋️ Pomagam ludziom trenować skuteczniej i świadomie budować formę.
+- 🧠 Interesuję się **science-based liftingiem** — lubię łączyć praktykę z wiedzą naukową.
+- 💻 W wolnym czasie tworzę własne projekty i uczę się programowania.
+- 📈 Cenię mierzalny progres, konsekwencję i ciągłe doskonalenie — na siłowni i przy klawiaturze.
+- 🤝 Chętnie rozmawiam o treningu, technologii oraz ciekawych pomysłach.
 
----
+## Technologie 💻
 
-### 💫 O mnie
+`Python` · `JavaScript` · `HTML5` · `Node.js`
 
-- 🏋️ Jestem trenerem personalnym — trening siłowy jest ważną częścią mojego życia.
-- 🧠 Interesuję się **science-based liftingiem** i praktycznym wykorzystywaniem wiedzy naukowej w treningu.
-- 💻 Poza siłownią rozwijam się w programowaniu i tworzę własne projekty.
-- 📈 Lubię mierzalny progres, eksperymentowanie i ciągłe doskonalenie — zarówno na treningu, jak i w kodzie.
-- 🤝 Chętnie rozmawiam o ćwiczeniach, technologii i ciekawych pomysłach.
+## Aktualnie 🌱
 
----
-
-### 🛠️ Technologie, które rozwijam
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</div>
+- Rozwijam własne projekty, między innymi [HybridPath](https://github.com/B0gusi4/HybridPath).
+- Poszerzam wiedzę z programowania i szukam sposobów na łączenie technologii ze światem fitnessu.
 
 ---
 
-### 📊 Statystyki GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=B0gusi4&show_icons=true&theme=tokyonight&hide_border=true" alt="Statystyki GitHub B0gusi4" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0gusi4&layout=compact&theme=tokyonight&hide_border=true" alt="Najczęściej używane języki B0gusi4" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://streak-stats.demolab.com?user=B0gusi4&theme=tokyonight&hide_border=true&locale=pl" alt="Seria aktywności GitHub B0gusi4" />
-</div>
-
----
-
-### 📬 Kontakt
-
-<div align="center">
-  <a href="https://github.com/B0gusi4">
-    <img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profil B0gusi4 na GitHubie" />
-  </a>
-</div>
+> Small steps. Measurable progress. Every day.
